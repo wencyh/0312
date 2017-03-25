@@ -1,0 +1,14 @@
+.main span {
+  clear: both;
+  display: inline-block;
+  padding-bottom: 0px;
+}
+.btn .caret {
+  margin-left: 5px;
+}
+.dropdown-menu {
+  min-width: 0px;
+}
+.table > thead > tr > th {
+  border-top: 1px solid #ddd;
+}
